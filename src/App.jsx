@@ -34,7 +34,6 @@ const App = () => {
         experienceRef={experienceRef} 
         contactRef={contactRef} 
       />
-      
       <div ref={homeRef}><Home /></div>
       <div ref={aboutRef}><About /></div>
       <div ref={portfolioRef}><PortFolio /></div>
